@@ -238,3 +238,6 @@ This repository serves as the official landing page for Cool Screen Capture. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cool Screen Capture today!**
+
+---
+**Last updated:** 2026-09-12 08:57:51 UTC
