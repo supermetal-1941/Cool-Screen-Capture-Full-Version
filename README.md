@@ -240,4 +240,4 @@ This repository serves as the official landing page for Cool Screen Capture. The
 **Get the most recent version of Cool Screen Capture today!**
 
 ---
-**Last updated:** 2026-09-24 22:54:27 UTC
+**Last updated:** 2026-09-25 01:04:49 UTC
